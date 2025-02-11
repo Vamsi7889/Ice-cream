@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f8f8f8;
+    background-image: url("https://i.pinimg.com/560x/9d/5f/f8/9d5ff8886976f610362364c676d54238.jpg"); /* **REPLACE WITH YOUR IMAGE URL** */
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
